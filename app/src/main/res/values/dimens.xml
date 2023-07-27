@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="name">20sp</dimen>
+    <dimen name="details">16sp</dimen>
+    <dimen name="distanceBetweenTwoConvigent">2dp</dimen>
+    <dimen name="distanceBetweenNotTwoConvigent">8dp</dimen>
+    <dimen name="drawablePadding">4dp</dimen>
+    <dimen name="imageWidth">180dp</dimen>
+    <dimen name="imageHeight">180dp</dimen>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name">Mr. Hassan Magdy</string>
+    <string name="position">CEO, ProCrew</string>
+    <string name="telephone">Tel :</string>
+    <string name="telephone_number">369 258 147</string>
+    <string name="email">Email :</string>
+    <string name="email_characters">mm@gmail.com</string>
+    <string name="company_details">Company Details</string>
+    <string name="email_home">www.mohamed.com</string>
+    <string name="location">Location : </string>
+    <string name="location_sentence">Fayoum, Egypt</string>
+    <string name="employees">Employees :</string>
+    <string name="employees_count">50 : 100</string>
+    <string name="note">Note :</string>
+    <string name="note_sentence">i am avaliable everyday from 9:00 AM to 5:00 PM</string>
+</resources>
